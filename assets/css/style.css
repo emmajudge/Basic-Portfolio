@@ -1,0 +1,38 @@
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+    
+#main{
+    background-image: link to image file;
+    width: 100%;
+}
+    
+#footerid{
+    border: 1px;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+}
+    
+header{
+    height: 70px;
+}
+    
+#headerid{
+    margin-top: 30px;
+}
+    
+h1{
+    background-color: aqua;
+}
+    
+li{
+    float: right;
+}
+    
+
+.clearfix{
+    clear: both;
+}    
